@@ -164,7 +164,7 @@ ctf-arqadex/
 ### Cloudflare Pages
 ```bash
 # Connect GitHub repo → Build: none (static)
-# Custom domain: ctf.arqadex.site
+# Custom domain: build.arqadex.site
 ```
 
 ---
