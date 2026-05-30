@@ -193,15 +193,15 @@ const CHALLENGES = [
 
 /* ── EXPERTISE DATA ── */
 const EXPERTISE = [
+  {name:'Cryptography',        pct:95, color:'#FF2DA6'},
+  {name:'OSINT',               pct:80, color:'#C7FF4D'},
+  {name:'Reverse Engineering', pct:92, color:'#7A5CFF'},
   {name:'Web Exploitation',    pct:95, color:'#00F5FF'},
   {name:'Pwn / Binary',        pct:90, color:'#FF4444'},
-  {name:'Reverse Engineering', pct:92, color:'#7A5CFF'},
-  {name:'Cryptography',        pct:88, color:'#FF2DA6'},
   {name:'Cloud Security',      pct:85, color:'#00CCFF'},
   {name:'AI Security',         pct:82, color:'#4488FF'},
   {name:'DFIR / Forensics',    pct:87, color:'#FF8800'},
-  {name:'OSINT',               pct:80, color:'#C7FF4D'},
-];
+  ];
 
 /* ═══════════════════════════════════════════════════════════════
    CANVAS BACKGROUND
