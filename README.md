@@ -1,5 +1,5 @@
 # ⚡ ARQADEX CTF DIVISION
-### ctf.arqadex.site — Premium Challenge Engineering Platform
+### build.arqadex.site — Premium Challenge Engineering Platform
 
 > *We do not deliver challenges. We deliver experiences.*
 
